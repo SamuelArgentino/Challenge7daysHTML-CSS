@@ -1,0 +1,16 @@
+@import url(styles/reset.css);
+@import url(styles/header.css);
+
+:root {
+    --cor-primaria: #FFFFFF;
+    --cor-secundaria: #8E2424;
+    --cor-cinza: #667085;
+    --fonte-primaria: "Inter", sans-serif;
+}
+
+body {
+    background-color: var(--cor-primaria);
+    font-family: var(--fonte-primaria);
+    font-size: 16px;
+    font-weight: 400;
+}
