@@ -4,6 +4,8 @@
 
 GitHub Pages: https://samuelargentino.github.io/Challenge7daysHTML-CSS/
 
+Vercel: https://challenge7days-html-css.vercel.app/
+
 ## Ferramentas utilizadas:
 
 * HTML
