@@ -1,6 +1,6 @@
 # Desafio 7 Dias - HTML&CSS
 
-![image](https://github.com/SamuelArgentino/Challenge7daysHTML-CSS/assets/174635851/178195f4-ac49-4b4e-9aa8-e7d103cc4e87)
+![image](https://github.com/user-attachments/assets/13526af2-9c17-4c8f-9e0a-0d9aebf8f416)
 
 GitHub Pages: https://samuelargentino.github.io/Challenge7daysHTML-CSS/
 
