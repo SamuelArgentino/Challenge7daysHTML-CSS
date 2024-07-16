@@ -1,0 +1,34 @@
+.depoimentos {
+    margin: 5em 8em;
+    background: rgba(195, 25, 25, 3%);
+    text-align: center;
+    padding: 5em 0 4em 0;
+}
+
+.depoimentos__cabecalho {
+    margin: 0 6em;
+}
+
+.depoimentos__cabecalho-descricao {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+}
+
+.depoimentos__cabecalho-titulo {
+    color: var(--cor-cinza-escuro);
+    font-size: 36px;
+    font-weight: 500;
+    margin: 0.8em 0;
+}
+
+.depoimentos__autor-nome {
+    color: var(--cor-cinza-escuro);
+    font-weight: 500;
+    margin: 1em 0 0.5em 0;
+}
+
+.depoimentos__autor-descricao {
+    font-size: 14px;
+    color: var(--cor-cinza);
+}

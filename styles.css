@@ -1,11 +1,19 @@
 @import url(styles/reset.css);
-@import url(styles/header.css);
+@import url(styles/cabecalho.css);
+@import url(styles/sobrenos.css);
+@import url(styles/vagas.css);
+@import url(styles/depoimentos.css);
+@import url(styles/rodape.css);
 
 :root {
     --cor-primaria: #FFFFFF;
     --cor-secundaria: #8E2424;
     --cor-cinza: #667085;
+    --cor-cinza-claro: #98A2B3;
+    --cor-cinza-escuro: #101828;
+    --cor-background-texto-primaria: rgba(142, 36, 36, 5%);
     --fonte-primaria: "Inter", sans-serif;
+    --background-rodape: #F9FAFB;
 }
 
 body {

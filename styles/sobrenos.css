@@ -1,0 +1,52 @@
+.sobrenos {
+    text-align: center;
+    margin: 7em 0;
+    padding: 0 30em;
+}
+
+.sobrenos__titulo {
+    color: var(--cor-secundaria);
+    font-weight: 600;
+}
+
+.sobrenos__titulo__descricao {
+    color: var(--cor-cinza-escuro);
+    font-weight: 600;
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+    margin-top: 0.7em;
+}
+
+.sobrenos__titulo__descricao-texto {
+    font-size: 20px;
+    color: var(--cor-cinza);
+    margin-top: 2.5em;
+}
+
+.sobrenos__container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin: 0 6em;
+}
+
+.sobrenos__container__conteudo {
+    padding: 0 2em;
+}
+
+.sobrenos__container__conteudo-titulo {
+    color: var(--cor-secundaria);
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 0.3em;
+}
+
+.sobrenos__container__conteudo-descricao {
+    color: var(--cor-cinza-escuro);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.sobrenos__container__conteudo-texto {
+    color: var(--cor-cinza);
+    margin: 1em 0 5em 0;
+}
